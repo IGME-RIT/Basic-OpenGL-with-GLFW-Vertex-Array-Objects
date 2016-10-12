@@ -1,0 +1,15 @@
+series: Basic OpenGL with GLFW
+title: Vertex Array Objects
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Store vertex attribute infomation in a vertex array object to avoid redundant function calls. 
+language: C++
+tags:
+  - Graphics
+  - Optimization
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Instanced Rendering
